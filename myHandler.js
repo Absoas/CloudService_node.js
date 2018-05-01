@@ -1,3 +1,4 @@
+//20180501
 const queryString = require('querystring')
 const twitter = require('./brainDemoTwitterDonKim');
 const myBrain = require('./myBrain');
